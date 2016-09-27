@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E933C3E4-5FC7-46E7-EE6A-C5EA77599BB0}") = "ModelingWithMaya", "Assembly-CSharp-firstpass.csproj", "{E88701A2-DDCB-36FF-AEAC-343FF483D48B}"
+EndProject
+Project("{E933C3E4-5FC7-46E7-EE6A-C5EA77599BB0}") = "ModelingWithMaya", "Assembly-CSharp.csproj", "{CE5BE64B-255A-58DB-272F-A08D776EFEE1}"
+EndProject
+Project("{E933C3E4-5FC7-46E7-EE6A-C5EA77599BB0}") = "ModelingWithMaya", "Assembly-CSharp-Editor.csproj", "{F6037FB5-0BC2-6304-E869-A59C464EEAE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88701A2-DDCB-36FF-AEAC-343FF483D48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88701A2-DDCB-36FF-AEAC-343FF483D48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88701A2-DDCB-36FF-AEAC-343FF483D48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88701A2-DDCB-36FF-AEAC-343FF483D48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5BE64B-255A-58DB-272F-A08D776EFEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5BE64B-255A-58DB-272F-A08D776EFEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5BE64B-255A-58DB-272F-A08D776EFEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5BE64B-255A-58DB-272F-A08D776EFEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6037FB5-0BC2-6304-E869-A59C464EEAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6037FB5-0BC2-6304-E869-A59C464EEAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6037FB5-0BC2-6304-E869-A59C464EEAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6037FB5-0BC2-6304-E869-A59C464EEAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
